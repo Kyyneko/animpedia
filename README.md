@@ -1,4 +1,4 @@
-# animpedia
+# animpedia-flutter-app
 
 A new Flutter project.
 
